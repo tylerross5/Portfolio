@@ -49,6 +49,7 @@ header {
     background-color: rgba(196, 154, 250, 0.918);
     box-sizing: border-box;
     height: 600px;
+    
   }
   .aboutme{
     display: flex;
@@ -56,7 +57,7 @@ header {
   }
   .contacts{
     position: relative;
-    left: 204px;
+    left: 370px;
     bottom: 33px;
     margin:10px;
 
@@ -65,8 +66,8 @@ header {
   .aboutparagraph{
     display: flex;
     position: relative;
-    left: 455px;
-    flex-wrap: wrap;
+    left: 760px;
+   flex-wrap: wrap;
     width: 517px;
     bottom: 91px;
     
@@ -74,7 +75,7 @@ header {
   .worksparagraph{
     display: flex;
     position: relative;
-    left: 455px;
+    left: 760px;
     flex-wrap: wrap;
     width: 517px;
     bottom: 64px;
