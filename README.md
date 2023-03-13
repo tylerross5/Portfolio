@@ -1,1 +1,2 @@
 # Week-2-Module
+Created an HTML file and Css file to create a portfolio webpage that I will be able to show off my works that I create throughout the course and will be able to update it as the class goes on. Although it needs a lot of work to be done on it, by the end of the course the page will look significantly better and have the much needed upgrades it needs. 
